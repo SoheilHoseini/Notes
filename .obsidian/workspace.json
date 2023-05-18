@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ee2a0c20bac30b9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cheat Sheets/Markdown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming Languages/Golang/Packages vs Modules in Golang.md",
+                "file": "Cheat Sheets/Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming Languages/Golang/Packages vs Modules in Golang.md",
+                "file": "Cheat Sheets/Markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming Languages/Golang/Packages vs Modules in Golang.md"
+                "file": "Cheat Sheets/Markdown.md"
               }
             }
           }
@@ -154,8 +166,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "435d928fc7fd56dd",
+  "active": "ee2a0c20bac30b9a",
   "lastOpenFiles": [
-    "Programming Languages/Golang/Packages vs Modules in Golang.md"
+    "Programming Languages/Golang/Packages vs Modules in Golang.md",
+    "Cheat Sheets/Markdown.md",
+    "Cheat Sheets",
+    "New folder"
   ]
 }
