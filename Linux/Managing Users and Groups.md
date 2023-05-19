@@ -1,4 +1,4 @@
-##### Users
+#### Users
 1. Add a new user `useradd username`  
 	 1.1. Another command is `adduser username` which is more interactive and we can set more information about the user at the time of creating it  
 2. Print info of all users; Go to the home directory and then `cat /etc/passwd`
@@ -14,4 +14,4 @@ We can use groups to control the permission of all users in the group. Every use
 1. Add a new group `addgroup groupname
 2. Add user to a supplementary group `usermod -G gName username`
 3. See all groups of a user `groups username`
-4. 
+
