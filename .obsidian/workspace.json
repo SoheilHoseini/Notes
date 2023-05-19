@@ -4,15 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "3690a628ee5b296a",
+        "id": "f138c203266810da",
         "type": "tabs",
         "children": [
           {
-            "id": "5e50355d733eb765",
+            "id": "2c221a1c9fd662f3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Managing Users and Groups.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad6a97f6cd565b2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Files.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2aa9c15fa1e1c7c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cheat Sheets/Markdown.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux/Managing Users and Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linux/Managing Users and Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linux/Managing Users and Groups.md"
+              }
             }
           }
         ]
@@ -138,18 +170,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e50355d733eb765",
+  "active": "2c221a1c9fd662f3",
   "lastOpenFiles": [
+    "Linux/Files.md",
+    "Linux/Managing Users and Groups.md",
+    "Untitled.md",
+    "Linux/General Commands.md",
+    "Docker/Running Ubuntu.md",
+    "Linux/Managing Processes.md",
+    "Cheat Sheets/Markdown.md",
+    "Untitled.canvas",
     "OS Concepts/Parallelism/Multi-(Programming, Proccesing, Threading, Tasking).md",
     "OS Concepts/Parallelism/proc-threads.png",
     "OS Concepts/Parallelism/Program, Process, Thread, Task.md",
     "OS Concepts/Virtual Memory.md",
-    "Linux/Managing Processes.md",
     "OS Concepts/Parallelism",
     "Programming Languages/Golang/Packages vs Modules in Golang.md",
-    "Docker/Running Ubuntu.md",
-    "Untitled.canvas",
-    "Cheat Sheets/Markdown.md",
     "OS Concepts",
     "Docker/Processes.md",
     "Linux",
