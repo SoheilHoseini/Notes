@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3125bd12f9a179f8",
+        "id": "3690a628ee5b296a",
         "type": "tabs",
         "children": [
           {
-            "id": "8487d630a8aa32a0",
+            "id": "5e50355d733eb765",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS Concepts/Virtual Memory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "859ccdf71a8ae109",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS Concepts/Parallelism/Multi-(Programming, Proccesing, Threading, Tasking).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS Concepts/Virtual Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS Concepts/Virtual Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "OS Concepts/Virtual Memory.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,13 +138,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8487d630a8aa32a0",
+  "active": "5e50355d733eb765",
   "lastOpenFiles": [
-    "OS Concepts/Parallelism/Program, Process, Thread, Task.md",
     "OS Concepts/Parallelism/Multi-(Programming, Proccesing, Threading, Tasking).md",
-    "Linux/Managing Processes.md",
-    "OS Concepts/Virtual Memory.md",
     "OS Concepts/Parallelism/proc-threads.png",
+    "OS Concepts/Parallelism/Program, Process, Thread, Task.md",
+    "OS Concepts/Virtual Memory.md",
+    "Linux/Managing Processes.md",
     "OS Concepts/Parallelism",
     "Programming Languages/Golang/Packages vs Modules in Golang.md",
     "Docker/Running Ubuntu.md",
