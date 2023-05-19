@@ -1,2 +1,2 @@
-1. Show all the runnig procesess `ps`
+1. Show all the running processes `ps`
 2. 

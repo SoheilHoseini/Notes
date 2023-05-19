@@ -1,5 +1,5 @@
 1. Go to [DockerHub](https:/hub.docker.com) and search for ubuntu
-2. You can either use the `docker pull ubuntu` in cmd in a folder you want to pull the image and then run the container using `docker run ubuntu` 
+2. You can either use the `docker pull ubuntu` in CMD in a folder you want to pull the image and then run the container using `docker run ubuntu` 
 3. Or you can use `docker run -it ubuntu` to download the image and run the container (interactively) at the same time
 4. Now the shell prompt is open which takes our commands and passes them to the os and something is there like `root@847f9ff14cb9:/#` :
  4.1. `root` : You have logged in as the root user
