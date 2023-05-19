@@ -8,32 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d31848da23cf147",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "435d928fc7fd56dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Languages/Golang/Packages vs Modules in Golang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ee2a0c20bac30b9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Cheat Sheets/Markdown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90f03ee0919a556f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Managing Processes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8487d630a8aa32a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS Concepts/Process, Thread, Program, Task.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cheat Sheets/Markdown.md",
+                "file": "OS Concepts/Process, Thread, Program, Task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cheat Sheets/Markdown.md",
+                "file": "OS Concepts/Process, Thread, Program, Task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cheat Sheets/Markdown.md"
+                "file": "OS Concepts/Process, Thread, Program, Task.md"
               }
             }
           }
@@ -166,10 +170,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee2a0c20bac30b9a",
+  "active": "8487d630a8aa32a0",
   "lastOpenFiles": [
-    "Programming Languages/Golang/Packages vs Modules in Golang.md",
     "Cheat Sheets/Markdown.md",
+    "Linux/Managing Processes.md",
+    "OS Concepts/Process, Thread, Program, Task.md",
+    "OS Concepts/proc-threads.png",
+    "OS Concepts",
+    "Docker/Processes.md",
+    "Linux",
+    "Docker/Running Ubuntu.md",
+    "Processes",
+    "Processes",
+    "Programming Languages/Golang/Packages vs Modules in Golang.md",
+    "Docker",
     "Cheat Sheets",
     "New folder"
   ]
