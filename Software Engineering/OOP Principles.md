@@ -55,5 +55,5 @@ public class Main {
 ```
 
 
-### **Note** *
+### **Note** 
 When class `B` inherits from class `A` or implements interface `I`, it is of type `A` or `I` as well!
