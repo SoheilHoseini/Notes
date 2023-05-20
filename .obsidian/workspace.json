@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 239.5
   },
   "right": {
     "id": "9e5e76f1f4a3cab4",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Principles of OOP.md",
+                "file": "Software Engineering/SOLID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Principles of OOP.md",
+                "file": "Software Engineering/SOLID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Principles of OOP.md"
+                "file": "Software Engineering/SOLID.md"
               }
             }
           }
@@ -160,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4cefb0098f91cbb4",
+  "active": "49c93a6098116e3e",
   "lastOpenFiles": [
-    "Software Engineering/SOLID.md",
     "Software Engineering/Principles of OOP.md",
+    "Software Engineering/SOLID.md",
     "Software Engineering",
     "Linux/Files.md",
     "Docker/Images and Containers.md",
