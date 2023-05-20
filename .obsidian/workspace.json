@@ -4,46 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "31f5535ba051c855",
+        "id": "e384b5c7285da5c7",
         "type": "tabs",
         "children": [
           {
-            "id": "d9b09b1349e4e45e",
+            "id": "49c93a6098116e3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Steps of Dockerising an Application.md",
+                "file": "Software Engineering/SOLID.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dc39380060c38f4f",
+            "id": "4cefb0098f91cbb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/General Commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65ce9a80a9fc7a72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cheat Sheets/Markdown.md",
+                "file": "Software Engineering/Principles of OOP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Steps of Dockerising an Application.md",
+                "file": "Software Engineering/Principles of OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Steps of Dockerising an Application.md",
+                "file": "Software Engineering/Principles of OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Steps of Dockerising an Application.md"
+                "file": "Software Engineering/Principles of OOP.md"
               }
             }
           }
@@ -171,22 +160,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9b09b1349e4e45e",
+  "active": "4cefb0098f91cbb4",
   "lastOpenFiles": [
-    "Linux/General Commands.md",
-    "Docker/Steps of Dockerising an Application.md",
-    "Cheat Sheets/Markdown.md",
-    "Docker/Images and Containers.md",
-    "Linux/Managing Users and Groups.md",
-    "Docker/Running Ubuntu.md",
+    "Software Engineering/SOLID.md",
+    "Software Engineering/Principles of OOP.md",
+    "Software Engineering",
     "Linux/Files.md",
-    "Untitled.md",
+    "Docker/Images and Containers.md",
+    "Cheat Sheets/Markdown.md",
+    "Docker/Running Ubuntu.md",
+    "Linux/Managing Users and Groups.md",
     "Linux/Managing Processes.md",
-    "Untitled.canvas",
+    "Linux/General Commands.md",
     "OS Concepts/Parallelism/Multi-(Programming, Proccesing, Threading, Tasking).md",
-    "OS Concepts/Parallelism/proc-threads.png",
-    "OS Concepts/Parallelism/Program, Process, Thread, Task.md",
     "OS Concepts/Virtual Memory.md",
+    "OS Concepts/Parallelism/Program, Process, Thread, Task.md",
+    "Docker/Steps of Dockerising an Application.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "OS Concepts/Parallelism/proc-threads.png",
     "OS Concepts/Parallelism",
     "Programming Languages/Golang/Packages vs Modules in Golang.md",
     "OS Concepts",
