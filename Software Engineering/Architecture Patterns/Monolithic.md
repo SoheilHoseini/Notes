@@ -1,0 +1,2 @@
+In monolithic architecture, system is constructed of layers. System is considered as a single unit and developed by one language and there is one database. In this system, components are coupled together.
+As features increase, it would be more difficult to scale, test and deploy services. 
