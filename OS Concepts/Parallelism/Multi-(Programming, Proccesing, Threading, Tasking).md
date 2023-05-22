@@ -6,7 +6,7 @@ Multiprogramming is known as keeping several programs in the main memory at the 
 A computer using more than one CPU at a time. Multiprocessing refers to the hardware (i.e. the CPU units) rather than the software (i.e. running processes).
 
 **Multiprogramming vs Multiprocessing**
--   A System can be both multi programmed by having multiple programs running at the same time and multiprocessing by having more than one physical processor. The difference between multiprocessing and multiprogramming is that multiprocessing is basically executing a couple of processes at the same time on multiple processors, whereas multi programming is keeping several programs in main memory and executing them concurrently using a single CPU only.
+-   A system can be both multi programmed by having multiple programs running at the same time and multiprocessing by having more than one physical processor. The difference between multiprocessing and multiprogramming is that multiprocessing is basically executing a couple of processes at the same time on multiple processors, whereas multi programming is keeping several programs in main memory and executing them concurrently using a single CPU only.
 
 -   Multiprocessing occurs by means of parallel processing whereas multiprogramming occurs by switching from one process to other (phenomenon called as context switching).
 
