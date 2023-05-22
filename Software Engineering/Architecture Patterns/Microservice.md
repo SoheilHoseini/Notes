@@ -10,6 +10,7 @@ Microservice architecture contains some important components:
 
 
 #### Container Orchestration Tools
+Docker Swarm - Kubernetes
 
 
 #### CI/CD Pipelines
