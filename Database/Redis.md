@@ -1,0 +1,2 @@
+Redis is a key-value storage database which mostly is used as cache in applications but it can even be used as the primary database as well. It supports multiple data types like strings, lists, hashes etc. To cache data using Redis, first we need to install it then save the restored data from primary data base in it as a key-value element so we can retrieve it any time we needed it fast without needing to query the main database every time which could be so time consuming. 
+Redis saves data on RAM instead of the disk and this is why is it very fast.
