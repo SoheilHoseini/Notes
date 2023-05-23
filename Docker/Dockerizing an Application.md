@@ -14,7 +14,7 @@
 8. We can run commands needed for the app to run, like `npm install` to install the dependencies of a node project using `RUN yourCommand` in the Dockerfile
 9. If the host runs the app on a certain port, we should map the containers ports to the corresponding ports on the host, using `EXPOSE portNum` in Dockerfile
 10. For security reasons you can add a user to the container and set its group, so all the other commands will be executed using the user. For that first we should create a user by a command like `RUN adduser -S -G userName userName && addgroup userName` in the Dockerfile and then add the user by `USER userName`
-11. `RUN` is used to execute commands in **built time** but we can use `CMD` or `ENTRYPOINT` to run commands at **run time**, when a the container is started. So commands like `npm install` are executed by `RUN` and things like `npm start` would go by `CMD`.
+11. `RUN` is used to execute commands at **built time** but we can use `CMD` or `ENTRYPOINT` to run commands at **run time**, when a the container is started. So commands like `npm install` are executed by `RUN` and things like `npm start` would go by `CMD`.
 	1. `CMD` is for supplying default command so it's not reasonable to have multiple `CMD`s. In such a case, only the last one will take effect.
 	2. Difference between `CMD` and `ENTRYPOINT` is that whatever the default command is in front of `CMD`, we could override it we running the container by `docker run -it imgName myCommand`; But to override the `ENTRYPOINT`, we have to use the `--entrypoint` option so it would be a little bit harder to do so and less flexible.
 
