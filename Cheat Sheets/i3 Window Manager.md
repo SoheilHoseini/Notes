@@ -2,7 +2,13 @@
 - Open a new terminal: `win+Enter`
 - Shutdown and restart: open a terminal and write `shutdown` or `shutdown -r`
 - Fullscreen and exit of fullscreen: `win+F`
-- Open notbar to start an app: `win+D`
+- Open search bar (dmenu) to start an app: `win+D`
 - Screen options `win+0`
-- Open Obsidian: `flatpak run md.obsidian.Obsidian`
+- Open Obsidian: `flatpak run md.obsidian.Obsidian` which now its alias is `obsidian`
+- Ubuntu file manager: open dmenu and search for `nautilus`
+- Enable changing language via `shift+alt` : `setxkbmap -model pc104 -layout us,ir -option 'grp:lalt_lshift_toggle'` which now its alias `chlan`
+- Change screen brightness level: 
+	- - Type `xrandr | grep " connected" | cut -f1 -d " "` to find your monitor’s name
+	- Now type `xrandr --output your-monitor-name --brightness brightness-level`
+
 - 
