@@ -9,3 +9,7 @@
 
 **swerve**: change or cause to change direction abruptly => A car swerved around a corner
 
+**boilerplate**: تکرار واضحات => The library implements a lot of nifty methods under the hood to prevent you from writing boilerplate code
+
+
+

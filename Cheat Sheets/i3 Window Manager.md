@@ -11,4 +11,5 @@
 	- - Type `xrandr | grep " connected" | cut -f1 -d " "` to find your monitor’s name
 	- Now type `xrandr --output your-monitor-name --brightness brightness-level`
 
-- 
+- Set scree light tempratue: `redshift -O your_temprature` 
+	- Set light temprature to default setting: `redshif -x`
