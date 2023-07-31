@@ -1,0 +1,7 @@
+- Create a new workspace and move an app to it: `win+shift+num`  => in which `num` is the id for the workspace
+- Open a new terminal: `win+Enter`
+- Shutdown and restart: open a terminal and write `shutdown` or `shutdown -r`
+- Fullscreen and exit of fullscreen: `win+F`
+- Open notbar to start an app: `win+D`
+- Screen options `win+0`
+-
