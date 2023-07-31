@@ -4,4 +4,5 @@
 - Fullscreen and exit of fullscreen: `win+F`
 - Open notbar to start an app: `win+D`
 - Screen options `win+0`
--
+- Open Obsidian: `flatpak run md.obsidian.Obsidian`
+- 
