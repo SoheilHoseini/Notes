@@ -1,0 +1,1 @@
+Behave is behavior-driven development, Python style which uses gherkin syntax.
