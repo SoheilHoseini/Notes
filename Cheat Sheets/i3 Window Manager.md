@@ -1,15 +1,17 @@
 - Create a new workspace and move an app to it: `win+shift+num`  => in which `num` is the id for the workspace
 - Open a new terminal: `win+Enter`
 - Shutdown and restart: open a terminal and write `shutdown` or `shutdown -r`
-- Fullscreen and exit of fullscreen: `win+F`
-- Open search bar (dmenu) to start an app: `win+D`
+- Full screen and exit of full screen: `win+F`
+- Open search bar (*dmenu*) to start an app: `win+D`
 - Screen options `win+0`
 - Open Obsidian: `flatpak run md.obsidian.Obsidian` which now its alias is `obsidian`
-- Ubuntu file manager: open dmenu and search for `nautilus`
+- Ubuntu file manager: open *dmenu* and search for `nautilus`
 - Enable changing language via `shift+alt` : `setxkbmap -model pc104 -layout us,ir -option 'grp:lalt_lshift_toggle'` which now its alias `chlan`
 - Change screen brightness level: 
 	- - Type `xrandr | grep " connected" | cut -f1 -d " "` to find your monitor’s name
 	- Now type `xrandr --output your-monitor-name --brightness brightness-level`
 
-- Set scree light tempratue: `redshift -O your_temprature` 
-	- Set light temprature to default setting: `redshif -x`
+- Set scree light temperature: `redshift -O your_temprature` 
+	- Set light temperature to default setting: `redshif -x`
+- Restart: `win+shift+r`
+- 
