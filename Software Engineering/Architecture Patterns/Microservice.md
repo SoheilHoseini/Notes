@@ -55,10 +55,10 @@ Lets consider a flow of a client request through the API gateway to the backend 
 3. API gateway checks callers IP and other HTTP headers with its allow/deny list (Or even some rate checking) 
 4. API gateway check for the request authentication and authorization, using an identity provider.
 5. Rate limit check is applied against the authenticated session and if it is over the limits, request will be rejected
-6. Dynamic Routing; At this level and the next one, API gateway locates the appropriate backend service to handle the request using path matching
+6. Dynamic Routing; At this level and the next one, API gateway locates the appropriate back-end service to handle the request using path matching
 7. Service Discovery
-8. API gateway transforms the request to appropriate protocol and send the transformed request to the determined backend service.( An example protocol could be gRPC) 
-9. When the response comes from the backend service, API gateway transforms it to the suitable protocol and returns it to the client.
+8. API gateway transforms the request to appropriate protocol and send the transformed request to the determined back-end service.( An example protocol could be gRPC) 
+9. When the response comes from the back-end service, API gateway transforms it to the suitable protocol and returns it to the client.
 
 API gateway should track errors and proving circuit breaking functionalities to protect services from overloading.
 It is a critical piece of infrastructure and has tp be deployed in different regions to improve availability. 
