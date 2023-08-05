@@ -1,4 +1,4 @@
-Pydantic is a Python library that provides an easy and convenient way to validate and manipulate data. During validation, Pydantic checks each field in the data against the type hints and validation rules defined in the data model. If the data does not meet the requirements, Pydantic raises an error and stops the validation process. If the data is valid, Pydantic creates an instance of the data model, populates it with the incoming data, and returns it to the user.
+Pydantic is a Python library that provides an easy and convenient way to validate and manipulate data. During validation, Pydantic checks each field in the data against the type hints and validation rules defined in the data model. If the data does not meet the requirements, Pydantic raises an error and stops the validation process. If the data is valid, Pydantic *creates an instance of the data model, populates it with the incoming data, and returns it to the user*.
 
 Pydantic also provides advanced features, such as *field aliasing*, *custom validation functions*, and support for *nested data models*, making it possible to handle a wide range of data validation scenarios. Additionally, Pydantic supports *serialization* and *deserialization*, allowing data to be converted to and from Python data structures, JSON, and other formats as needed.
 ```python
@@ -18,10 +18,11 @@ class User(BaseModel):
 # Validate incoming data
 user_data = {'username': 'johndoe', 'password': 'password', 'age': 30}
 user = User(**user_data) # the "**" unpacks the user_data into keyword arguments
-
-# Raises a ValueError: Password must be at least 8 characters long.
 ```
-
+Result:
+```
+Raises a ValueError: Password must be at least 8 characters long.
+```
 
 ### Integrating Pydantic with FastAPI
 
