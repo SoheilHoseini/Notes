@@ -25,7 +25,6 @@ Code that lives in the External Systems layer can interact with all the other la
 
 
 
-qqq
 
 
 
